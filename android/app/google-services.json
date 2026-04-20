@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "469350580878",
+    "firebase_url": "https://carpoolingandridesharing-27067-default-rtdb.firebaseio.com",
+    "project_id": "carpoolingandridesharing-27067",
+    "storage_bucket": "carpoolingandridesharing-27067.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469350580878:android:18d8388de244c952a6bfdf",
+        "android_client_info": {
+          "package_name": "com.example.driver_app_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApRLVAWY7MUyfjyT9AmMJ98l04gsHsJvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469350580878:android:e49e0a8e03a755aca6bfdf",
+        "android_client_info": {
+          "package_name": "com.example.user_app_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApRLVAWY7MUyfjyT9AmMJ98l04gsHsJvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
